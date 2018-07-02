@@ -51,4 +51,5 @@ https://youtu.be/OdvkL3-nNHs
 # 参考文献
 【OpenCV】【Python】ルックアップテーブルでガンマ補正 https://qiita.com/Kazuhito/items/c43e96ab16f400a35721
 Python OpenCV3でGaussianオペレータを使って平滑化 https://www.blog.umentu.work/python-opencv3%E3%81%A7gaussian%E3%82%AA%E3%83%9A%E3%83%AC%E3%83%BC%E3%82%BF%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E5%B9%B3%E6%BB%91%E5%8C%96/
+
 OpenCV(Python)GUI基礎編　https://www.tech-tech.xyz/archives/3137782.html
